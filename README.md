@@ -1,5 +1,7 @@
 🌍 Travel Tourism Website
 
+---
+
 📋 Description
 
 This repository contains a frontend Travel & Tourism website built for practice and learning. It showcases different destinations and basic travel-related pages.
