@@ -1,5 +1,5 @@
-<h1>🌐 Personal Portfolio</h1>---
-
+<h1>🌐 Personal Portfolio</h1>
+---
 📋 Description
 
 This repository contains a full-stack portfolio website built to showcase projects, skills, and achievements. It includes a modern UI along with backend integration for handling contact form submissions.
@@ -57,7 +57,7 @@ npm run dev
 
 🙋‍♀ Author
 
-Srishty Kumari
+Srishty
 
 ---
 
